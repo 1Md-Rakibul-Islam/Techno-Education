@@ -4,3 +4,12 @@
     object-fit: cover;
     object-position: center;
 }
+
+.student img{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: top;
+}
+
+/* CSS has been used only in that one place du to the size of image being small or large */
