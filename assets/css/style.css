@@ -1,6 +1,6 @@
 .carousel-item img{
     width: 100vw;
-    height: 85vh;
+    height: 100vh;
     object-fit: cover;
     object-position: center;
 }
